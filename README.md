@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Movies-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with React and Redux. 
+Feel free to Contribute
 
 ## Available Scripts
 
