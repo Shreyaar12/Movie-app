@@ -2,7 +2,7 @@
   "name": "movie-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://sheryaar12.github.io/movie-app",
+  "homepage":"https://movie-q2famevjx-shreyaar12.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
