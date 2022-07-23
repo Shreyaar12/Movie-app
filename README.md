@@ -7,6 +7,8 @@ https://62dbbe273e02387516946ff5--inquisitive-frangollo-b65d7d.netlify.app/
 
 ## View Movie-app
 ![image](https://user-images.githubusercontent.com/91542376/172567729-841d2f43-6477-4a70-8aa2-60b88bdb9f4d.png)
+![Screenshot (1643)](https://user-images.githubusercontent.com/91542376/180600176-e4204da6-5bd1-48ca-bb86-34c592956967.png)
+
 
 
 ## Available Scripts
