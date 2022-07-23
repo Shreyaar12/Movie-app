@@ -2,7 +2,7 @@
 
 This project was created with React and Redux. 
 Feel free to Contribute
-##Deployed on Netlify 
+## Deployed on Netlify 
 https://62dbbe273e02387516946ff5--inquisitive-frangollo-b65d7d.netlify.app/
 
 ## View Movie-app
